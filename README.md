@@ -97,12 +97,6 @@ Complex bots with web app backends, turnkey web services.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitryRychkovA&show_icons=true&theme=dark)
-
----
-
 ## 💼 Open to
 
 - Senior Backend / Distributed Systems roles (remote)
