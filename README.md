@@ -48,6 +48,5 @@ Complex bots with web app backends, turnkey web services.
 
 ## 📫 Contacts
 
-- Telegram: [@dmitry_dtr](https://t.me/dmitry_dtr)
 - Email: warhamer400@gmail.com
 - Location: Yekaterinburg, Russia
