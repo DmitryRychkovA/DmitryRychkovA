@@ -3,7 +3,7 @@
 
 ### Senior Python Backend Engineer | Distributed Systems | MedTech & AI
 
-Python engineer with 7+ years of commercial experience building scalable backend systems, medical data platforms, and AI-powered solutions. Full development cycle — from architecture design to production deployment.
+Python engineer with 7+ years.
 
 ---
 
@@ -14,7 +14,7 @@ Python engineer with 7+ years of commercial experience building scalable backend
 - 🤖 Developed AI systems with LLM integrations and local model deployments
 - 🖥 Created 10+ clinical desktop applications (Qt/QML)
 - 🧩 Designed system architecture from scratch with production-grade reliability
-- 👥 Mentor & code review driver for a team of ~8 engineers
+- 👥 Mentor & code review driver for a team of ~5 engineers
 
 ---
 
@@ -84,7 +84,7 @@ End-to-end LLM deployment pipeline: local model hosting, API orchestration, and 
 `LLaMA` `LangChain` `OpenAI API` `FastAPI`
 
 ### 🎨 AI Content Generation
-Automated image and video generation pipelines with model configuration and fine-tuning.
+Automated image and video generation pipelines.
 `NanaBanana` `ComfyUI` `Stable Diffusion` `Python`
 
 ### 🖥️ Clinical Desktop Suite
