@@ -3,7 +3,7 @@
   <img alt="Dmitry Rychkov, Senior Python: multi-agent LLM pipeline with a model layer, an orchestrator, agents and human approval." src="assets/orchestration-light.svg" width="100%">
 </picture>
 
-Senior Python engineer, **8 years in commercial software development**. I design and build multi-agent LLM systems and the backend that runs them.
+Senior Python engineer, **7.5 years in commercial software development**. I design and build multi-agent LLM systems and the backend that runs them.
 
 ### What I do
 
